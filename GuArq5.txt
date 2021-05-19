@@ -1,3 +1,6 @@
 Conteúdo incluso pelo Gabriel Borba Paim.....
 Estudo de Git...
+
 Alteração sendo feitas pelo Gabriel Borba, a finalidade é gerar um conflito, como arquivos sendo editados ao mesmo tempo.
+
+Guilherme está tentando alterar esse arquivo sem ter conflitos 
