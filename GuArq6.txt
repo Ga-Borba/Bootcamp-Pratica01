@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Adicionando informação para resolver conflito
+=======
+Gerando Conflito
+>>>>>>> 44027e6393a5e63d412b07ef2c021b8c1c1cf7a2
+conflito resolvido adicionando os comentarios 
